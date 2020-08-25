@@ -1,0 +1,9 @@
+imagenPrincipal
+texto
+cta
+logo
+header
+footer
+background
+dosColumnas
+tresColumnas
