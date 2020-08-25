@@ -11,8 +11,8 @@ and cfg/yolov4_custom_test.cfg
 
 """
 
-classes=9
-max_batches=18000
+classes=3
+max_batches=6000
 batch=32	
 subdivisions=16
 width=416
@@ -21,5 +21,5 @@ channels=3
 momentum=0.949
 decay=0.0005
 learning_rate=0.001
-steps= (14400, 16200)
+steps= (4800, 5400)
 scales=(0.1,0.1)

@@ -1,5 +1,0 @@
-classes = 9
-train = C:\BigDAta\Darknet\build\darknet\x64\templates\train.txt
-valid = C:\BigDAta\Darknet\build\darknet\x64\templates\test.txt
-names = C:\BigDAta\Darknet\build\darknet\x64\templates\classes.names
-backup = backup
